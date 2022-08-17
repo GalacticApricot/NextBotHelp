@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "guy1/npc_guy1_0_killicon"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
